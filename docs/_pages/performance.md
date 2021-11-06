@@ -1,7 +1,7 @@
 ---
+layout: home
 permalink: /performance/
 title: "Performacce"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ---
 
 Non-toxic: Our polish contains nothing more than water, acrylic resins, a water-soluble co-solvent and
