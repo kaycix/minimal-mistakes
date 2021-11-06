@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Performance"
-    url: /year-archive/
+    url: /performance/
   - title: "Products"
-    url: /collection-archive/
+    url: /products/
   - title : "Service"
     url : /test/
   - title: "Quality Control"
