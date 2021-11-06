@@ -6,7 +6,7 @@ main:
     url: /performance/
   - title: "Products"
     url: /products/
-  - title : "Service"
-    url : /test/
+  - title : "Services"
+    url : /services/
   - title: "Quality Control"
-    url: /sitemap/
+    url: /quality/
