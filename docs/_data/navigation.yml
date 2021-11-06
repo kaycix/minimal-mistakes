@@ -20,11 +20,11 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "What We Offer"
     url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Performance"
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
