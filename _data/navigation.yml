@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "What We Offer"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Performance"
@@ -10,5 +8,5 @@ main:
     url: /collection-archive/
   - title : "Service"
     url : /test/
-  - title: "Sitemap"
+  - title: "Quality Control"
     url: /sitemap/
