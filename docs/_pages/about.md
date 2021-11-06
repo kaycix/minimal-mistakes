@@ -1,16 +1,16 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+layout: home
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
+  - url: /assets/images/colors.jpg
+    image_path: /assets/images/colors.jpg
     alt: "image example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
+  - url: /assets/images/polish.jpg
+    image_path: /assets/images/polish.jpg
     alt: "image example 2"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
+  - url: /assets/images/polish.jpg
+    image_path: /assets/images/polish.jpg
     alt: "image example 3"
 last_modified_at: 2021-05-11T10:23:16-04:00
 toc: true
