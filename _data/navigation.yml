@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "What we Offer"
+  - title: "What We Offer"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "Performance"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Products"
     url: /collection-archive/
+  - title : "Service"
+    url : /test/
   - title: "Sitemap"
     url: /sitemap/
