@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /performance/
-title: "Performacce"
+title: "Performance"
 ---
 
 Non-toxic: Our polish contains nothing more than water, acrylic resins, a water-soluble co-solvent and
