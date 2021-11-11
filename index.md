@@ -1,0 +1,11 @@
+---
+layout: "home"
+title: "What We Offer"
+---
+<figure style="width: 350px; margin-top: -35px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bluebottlesplash.png" alt="">
+</figure>
+
+We offer you the opportunity of marketing your own nail polish that is as safe for us and our planet as
+modern technology will allow. We will manufacture and package your polish under your label leaving
+you with the sole task of doing what you do best: sales and marketing.
