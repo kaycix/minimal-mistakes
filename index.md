@@ -3,7 +3,7 @@ layout: "home"
 title: ""
 ---
 <h2> What We Offer</h2>
-<figure style="width: 350px; margin-top: -35px" class="align-right">
+<figure style="width: 275px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bluebottlesplash.png" alt="">
 </figure>
 
