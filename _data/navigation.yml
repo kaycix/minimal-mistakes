@@ -6,5 +6,7 @@ main:
     url: /products/
   - title: "Capabilities"
     url: /performance/
+  - title: "Formulation"
+    url: /formulation/
   - title: "Contact"
     url: /contact/
