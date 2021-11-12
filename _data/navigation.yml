@@ -1,10 +1,10 @@
 # main links
 main:
+  - title: "About"
+    url: /
   - title: "Products and Services"
     url: /products/
-  - title: "Performance"
+  - title: "Capabilities"
     url: /performance/
-  - title: "Quality Control"
-    url: /quality/
   - title: "Contact"
     url: /contact/
