@@ -26,7 +26,7 @@ title: ""
 (Our patented primer doubles this chip resistance. However, the active adhesion promoter in the primer cannot be sold in the EU where all ingredients are required to be INCI listed).
 </li>
 </ul>
-Want Proof? <a href="">Ask us</a> for a sample pak.
+Want Proof? <a href="mailto:npolston@madriverscience.com">Ask us</a> for a sample pak.
 
 <h6>Quality Control</h6>
 
@@ -57,5 +57,5 @@ All ingredients are INCI listed
 Quality control procedures insure exact color matches and performance standards
 </li>
 </ul>
-Total focus on high quality and timely deliveries
+Total focus on high quality and timely deliveries.
 
