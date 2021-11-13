@@ -3,8 +3,11 @@ layout: home
 permalink: /formulation/
 title: ""
 ---
-
 <h6>Formulation</h6>
+<figure style="width: 275px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pinkbottle.png" alt="">
+</figure>
+
 <h6>Uniqueness of a Waterborne Polish</h6>
 <p>Go Natural Nail Polish is an odorless, non-toxic, environmentally safe, hypoallergenic, waterbased nail
 polish, the product of a revolutionary new technology never before available to the cosmetic industry. Go
