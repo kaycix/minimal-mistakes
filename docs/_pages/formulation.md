@@ -94,9 +94,6 @@ Dry Time. Go Natural dries to a tack-free state nearly as fast as regular polish
 dry faster than one thick coat. The second coat can be applied in 45-60 seconds, the third coat in perhaps
 60-90 seconds. Cold hands, low temperatures and high humidity will prolong drying times. The water in
 the polish creates a sensation of coolness as it evaporates, a good indicator of recoat time.
-Water Resistance. Hands can be used for normal activitites including submersion in cold water after
-approximately 15 to 20 minutes without harming the polish. The polish will withstand washing and
-shampooing in hot soapy water after an hour or so.
 </p>
 <p>
 <b>Gloss:</b> The clear base formulation and most cremes exhibit high gloss. Because total solids in the
