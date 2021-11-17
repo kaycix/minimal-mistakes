@@ -7,6 +7,18 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+html {
+	font-size: 15px;
+}
+
+html h1#page-title {
+	margin: 15px 0;
+	font-weight: 600;
+	text-align: center;
+	color: RGB(24, 136, 136);
+	font-size: 2em;
+}
+
 html h6 {
 	font-weight: 600; 
 	color: RGB(18,75,134); 

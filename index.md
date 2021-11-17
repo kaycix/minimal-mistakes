@@ -1,8 +1,7 @@
 ---
 layout: "home"
-title: ""
+title: "Private-label Manufacturers of Water-based Nailpolish"
 ---
-<h1 style="font-weight:500; color:RGB(24, 136, 136)">Private-label Manufacturers of Water-based Nailpolish</h1>
 <figure style="width: 275px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bluebottlesplash.png" alt="">
 </figure>
