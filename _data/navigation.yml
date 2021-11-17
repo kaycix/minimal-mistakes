@@ -4,9 +4,9 @@ main:
     url: /
   - title: "Products and Services"
     url: /products/
-  - title: "Capabilities"
+  - title: "Performance"
     url: /performance/
-  - title: "Formulation"
+  - title: "The Science Behind It"
     url: /formulation/
   - title: "Contact"
     url: /contact/

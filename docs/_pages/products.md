@@ -26,5 +26,37 @@ through our partner contract packagers. Our manufacturing facility is currently 
 to 50,000 gallons of polish per year (equivalent to 12 million 0.5 oz bottles), needing six months lead time
 to double that capacity. We are allied with a toll manufacturer who can provide further capacity when
 needed.</li>
+</ul>
+
+<h6>Quality Control</h6>
+
+GMP Compliance: Our processes are governed at every step by detailed SOP’s which cover:
 <ul>
+<li>
+facilities and equipment
+</li>
+<li>
+raw materials and production processes
+</li>
+<li>
+sanitization and maintenance
+</li>
+</ul>
+Industry standards:
+<ul>
+<li>
+Use only FD&C-approved colorants
+</li>
+<li>
+All ingredients and manufacturing processes meet global cosmetic requirements.
+</li>
+<li>
+All ingredients are INCI listed
+</li>
+<li>
+Quality control procedures insure exact color matches and performance standards
+</li>
+</ul>
+Total focus on high quality and timely deliveries.
+
 

@@ -27,35 +27,31 @@ title: ""
 </li>
 </ul>
 Want Proof? <a href="mailto:npolston@madriverscience.com">Ask us</a> for a sample pak.
-
-<h6>Quality Control</h6>
-
-GMP Compliance: Our processes are governed at every step by detailed SOP’s which cover:
-<ul>
+<h6>How to Apply Nail Polish</h6>
+<ol>
 <li>
-facilities and equipment
+Clean nails with remover until they squeak.
 </li>
 <li>
-raw materials and production processes
+Apply one coat of color. Allow to dry until tack free.
 </li>
 <li>
-sanitization and maintenance
-</li>
-</ul>
-Industry standards:
-<ul>
-<li>
-Use only FD&C-approved colorants
+Apply a second coat of color if needed. Allow to dry until tack free.
 </li>
 <li>
-All ingredients and manufacturing processes meet global cosmetic requirements.
+Apply one coat of topcoat. Allow to dry until tack free
 </li>
-<li>
-All ingredients are INCI listed
+</ol>
+Polish will become resistant to cold water in 10-15 minutes, resistant to
+hot, soapy water in 1-2 hours and durably hard after 2-3 hours. Maximum
+scratch resistance is achieved in 6 to 8 hours.
+<h6>How to Remove Nail Polish</h6>
+<ol>
+<li>Apply a thick layer of remover.
 </li>
-<li>
-Quality control procedures insure exact color matches and performance standards
+<li>After one minute remove loosened polish with rough paper towel.
 </li>
-</ul>
-Total focus on high quality and timely deliveries.
+<li>Repeat if necessary.
+</li>
+</ol>
 
