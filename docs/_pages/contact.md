@@ -3,7 +3,7 @@ layout: home
 permalink: /contact/
 title: ""
 ---
-<h6>Contact <span style="color:RGB(18,75,139)">Mad River Science</span></h6>
+<h6>Contact Us</h6>
 
 <div style="margin-top: 40px">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/phone-icon.png" alt="" class="align-left" style="width:40px;  margin-top: 0">
