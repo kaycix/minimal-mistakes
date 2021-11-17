@@ -4,7 +4,7 @@ permalink: /formulation/
 title: ""
 ---
 <h6>Uniqueness of a Waterborne Polish</h6>
-<p>Go Natural Nail Polish is an odorless, non-toxic, environmentally safe, hypoallergenic, waterbased nail
+<p>Go Natural Nail Polish is an odorless, non-toxic, environmentally safe, hypoallergenic, water-based nail
 polish, the product of a revolutionary new technology never before available to the cosmetic industry. Go
 Natural approaches the application, glamour and durability performance of traditional nail polishes but
 without the attendant drawbacks of foul odors, toxicity and damage to our environment and to your nails.</p>

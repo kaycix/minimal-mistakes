@@ -21,7 +21,7 @@ toc: true
 
 Mad River Science is a cosmetic manufacturer exclusively devoted to the production of water-based nail
 polish. We have been doing this for nearly 20 years, gradually improving and refining our formulas into
-what we know through extensive feedback from world-wide sales to be the best waterbased nail polish on
+what we know through extensive feedback from world-wide sales to be the best water-based nail polish on
 the planet with performance at least equal to the best lacquer polishes available. We have recently
 partnered with Interpolymer, a subsidiary of Zschimmer and Schwartz Cosmetics, manufacturer of the
 resin we use in our polish, to offer our nailpolish for private/white label sales to the cosmetic
