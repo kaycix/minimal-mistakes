@@ -4,6 +4,10 @@ permalink: /performance/
 title: ""
 ---
 
+<figure style="width: 225px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pinkbottle.png" alt="">
+</figure>
+
 <h6>Performance</h6>
 <ul>
 <li>
@@ -27,6 +31,7 @@ title: ""
 </li>
 </ul>
 Want Proof? <a href="mailto:npolston@madriverscience.com">Ask us</a> for a sample pak.
+
 <h6>How to Apply Nail Polish</h6>
 <ol>
 <li>
