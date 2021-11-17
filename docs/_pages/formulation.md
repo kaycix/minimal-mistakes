@@ -3,7 +3,6 @@ layout: home
 permalink: /formulation/
 title: ""
 ---
-<h6>Formulation</h6>
 <figure style="width: 275px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/pinkbottle.png" alt="">
 </figure>
@@ -33,9 +32,9 @@ lacquers are dry-to-touch in as little time as 45 to 60 seconds. Hardness increa
 after this initial drying period.</p>
 <p>By its very nature, this drying and hardening process is reversible. That is, solvent-based nail lacquers are
 easily re-dissolved by polish removers which contain the same or similar solvents as the polish.</p>
-<h6>Water-borne Polishes</h6>
+<h6>Waterborne Polishes</h6>
 <p>
-By contrast, the best water-borne nail polishes use a latex emulsion resin, very similar in its fundamental
+By contrast, the best waterborne nail polishes use a latex emulsion resin, very similar in its fundamental
 nature to latex paints or milk. This latex exists in the form of billions and billions of very small particles
 suspended in water. Unlike the fat particles in milk, though, these particles are very hard. As the water
 evaporates from the film the small particles will begin to touch each other and then at that point in the
