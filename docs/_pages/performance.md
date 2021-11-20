@@ -14,7 +14,7 @@ title: ""
 <b>Non-toxic:</b> Our polish contains nothing more than water, acrylic resins, a water-soluble co-solvent and FD&C-approved pigments. If an ingredient is not listed on our label, it is not in the polish, period!
 </li>
 <li>
-<b>Appearance in the bottle:</b> The resin we use is an emulsion and therefore imparts a milky appearance. Upon drying, however, ir forms a clear, very glossy film.
+<b>Appearance in the bottle:</b> The resin we use is an emulsion and therefore imparts a milky appearance. Upon drying, however, it forms a clear, very glossy film.
 </li>
 <li>
 <b>Odor:</b> The solvent in our polish is water and so, unlike traditional polishes that must use strong, stinky solvents, ours is very nearly odorless.
@@ -56,7 +56,7 @@ scratch resistance is achieved in 6 to 8 hours.
 Apply a thick layer of remover.
 </li>
 <li style="margin:0">
-After one minute remove loosened polish with rough paper towel.
+After one minute, remove loosened polish with rough paper towel.
 </li>
 <li style="margin:0">
 Repeat if necessary.

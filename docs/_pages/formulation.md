@@ -9,7 +9,7 @@ approaches the application, glamour and durability performance of traditional na
 without the attendant drawbacks of foul odors, toxicity and damage to our environment and to your nails.</p>
 <p>
 There are fundamental differences between waterborne and solventborne systems which manifest
-themselves in many, sometimes unexpected, ways-and nail polishes are no exception to this general rule.
+themselves in many, sometimes unexpected, ways and nail polishes are no exception to this general rule.
 Where these differences are fairly significant, slight adjustments in consumer awareness may be required
 through an innovative marketing program. A brief review of the fundamental science of these two
 systems will assist in understanding why this may be so.</p>
@@ -31,8 +31,8 @@ easily re-dissolved by polish removers which contain the same or similar solvent
 <p>
 By contrast, the best waterborne nail polishes use a latex emulsion resin, very similar in its fundamental
 nature to latex paints or milk. This latex exists in the form of billions and billions of very small particles
-suspended in water. Unlike the fat particles in milk, though, these particles are very hard. As the water
-evaporates from the film the small particles will begin to touch each other and then at that point in the
+suspended in water. Unlike the fat particles in milk though, these particles are very hard. As the water
+evaporates from the film, the small particles will begin to touch each other and then at that point in the
 process need to coalesce together to form a very hard film. But if nothing is done to the formula to
 change things, these tiny particles could not possibly form a film when the water evaporates - they are
 
@@ -44,7 +44,7 @@ from the film the softened particles can merge and coalesce with each other to f
 an interwoven, tightly bound, still somewhat soft, but nevertheless water-impermeable, tack-free
 film. And until this oil-like substance evaporates or is washed away, the film cannot achieve the ultimate
 hardness the original hard particles are capable of forming. As the oil-like substance gradually
-disappears, though, over a period of several hours under normal drying conditions, the film becomes
+disappears though, over a period of several hours under normal drying conditions, the film becomes
 harder and harder. During this period, other, but slower, chemical-hardening reactions are occuring in the
 film as well, working in combination with the evaporation process to help produce ultimate hardness in
 about 24 hours time.
@@ -84,7 +84,9 @@ waterborne polish does not contain those solvents, the oils are not removed and 
 direct contact of the polish and the nail surface. Thus, to the extent that the nail surface is oily, adhesion
 of the polish is compromised. To eliminate this possibility, it is best to clean the nails with polish
 remover or soap and water until they are squeaky clean and dried before applying the polish.
-Dry Time. Go Natural dries to a tack-free state nearly as fast as regular polish. Multiple thin coats will
+</p>
+<p>
+<b>Dry Time:</b> Go Natural dries to a tack-free state nearly as fast as regular polish. Multiple thin coats will
 dry faster than one thick coat. The second coat can be applied in 45-60 seconds, the third coat in perhaps
 60-90 seconds. Cold hands, low temperatures and high humidity will prolong drying times. The water in
 the polish creates a sensation of coolness as it evaporates, a good indicator of recoat time.
@@ -100,11 +102,11 @@ approximately 15 to 20 minutes without harming the polish. The polish will withs
 shampooing in hot, soapy water after an hour or so.
 </p>
 <p>
-<b>Scratch and Abrasion Resistance:</b> Unlike regular polishes which reach there maximum hardness in 30
-to 40 minutes by solvent evaporation, Go natural must be given time to create a cured, tough film. We
-think it achieves approximately 75% of its final harness in that short time period but then continues to
+<b>Scratch and Abrasion Resistance:</b> Unlike regular polishes which reach their maximum hardness in 30
+to 40 minutes by solvent evaporation, Go Natural must be given time to create a cured, tough film. We
+think it achieves approximately 75% of its final hardness in that short time period but then continues to
 build in hardness over the next few hours, reaching its ultimate hardness in 4 to 6 hours. Thus, one
-should avoid those activites which could scratch the surface or abraid the tips for several hours and
+should avoid those activites which could scratch the surface or abrade the tips for several hours and
 certainly shouldn’t work in the garden or overhaul an engine without gloves until 6 to 8 hours have
 passed. Short nails for active women might begin to show slight wear at the tips in approximately 2 to 3
 days but, in general, if care is exercised in the first several hours of the first stages of curing, acceptable
