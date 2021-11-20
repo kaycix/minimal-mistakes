@@ -30,7 +30,7 @@ needed.</li>
 
 <h6>Quality Control</h6>
 
-GMP Compliance: Our processes are governed at every step by detailed SOP’s which cover:
+GMP Compliance: Our processes are governed at every step by detailed SOP’s covering:
 <ul>
 <li>
 facilities and equipment

@@ -3,10 +3,9 @@ layout: home
 permalink: /formulation/
 title: ""
 ---
-<h6>Uniqueness of a Waterborne Polish</h6>
-<p>Go Natural Nail Polish is an odorless, non-toxic, environmentally safe, hypoallergenic, water-based nail
-polish, the product of a revolutionary new technology never before available to the cosmetic industry. Go
-Natural approaches the application, glamour and durability performance of traditional nail polishes but
+<h6>How are Waterborne Nail Polishes Different?</h6>
+<p>Our nail polish, the product of a revolutionary new technology never before available to the cosmetic industry,
+approaches the application, glamour and durability performance of traditional nail polishes but
 without the attendant drawbacks of foul odors, toxicity and damage to our environment and to your nails.</p>
 <p>
 There are fundamental differences between waterborne and solventborne systems which manifest
@@ -40,9 +39,9 @@ change things, these tiny particles could not possibly form a film when the wate
 much too hard, akin to sand particles and so would form nothing more than a pile of dry dust. To solve
 this problem, a small amount of an oil-like substance is added to the formula which, over a period of time
 during the manufacturing process, slowly migrates into and is thoroughly absorbed by each particle of
-latex. Each latex particle has now been made quite soft, soft enough so that when the water evaporates
-from the film the squishy, gooey particles can merge and coalesce with each other to miraculously form
-an interwoven, tightly bound, shiny, still somewhat soft, but nevertheless water-impermeable, tack-free
+latex. Each latex particle has now been made soft enough so that when the water evaporates
+from the film the softened particles can merge and coalesce with each other to form
+an interwoven, tightly bound, still somewhat soft, but nevertheless water-impermeable, tack-free
 film. And until this oil-like substance evaporates or is washed away, the film cannot achieve the ultimate
 hardness the original hard particles are capable of forming. As the oil-like substance gradually
 disappears, though, over a period of several hours under normal drying conditions, the film becomes
