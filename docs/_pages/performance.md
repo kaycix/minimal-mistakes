@@ -23,7 +23,7 @@ title: ""
 <b>Application:</b> The polish flows from the brush to apply evenly with little effort, and with a luxurious feeling, then levels to form a uniformly flat film with zero brush marks.
 </li>
 <li>
-<b>Dry time:</b> Dry time ranges from 30 to 60 seconds and is strongly influenced by temperature and humidity. Mar and scratch resistance begin to develop immediately thereafter allowing you to use your hands for normal tasks and then reach their maximum values in a matter of several hours,
+<b>Dry time:</b> Dry time ranges from 30 to 60 seconds and is strongly influenced by temperature and humidity. Mar and scratch resistance begin to develop immediately thereafter allowing you to use your hands for normal tasks and then reach their maximum values in a matter of several hours.
 </li>
 <li>
 <b>Durability:</b> Treat this polish with care for the first few hours after it is applied and you will be rewarded with scratch and chip resistance comparable to that of the best lacquer polishes on the market.

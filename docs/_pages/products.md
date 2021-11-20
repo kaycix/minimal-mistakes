@@ -48,7 +48,7 @@ Industry standards:
 Use only FD&C-approved colorants
 </li>
 <li>
-All ingredients and manufacturing processes meet global cosmetic requirements.
+All ingredients and manufacturing processes meet global cosmetic requirements
 </li>
 <li>
 All ingredients are INCI listed

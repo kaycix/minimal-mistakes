@@ -65,7 +65,7 @@ in practical ways.
 <b>Appearance in the bottle:</b> The clear, unpigmented polish and some colors approach the milky
 appearance of non-fat milk.. This milkiness dissappears upon drying, however. Dried polish which
 normally tends to accumulate in the neck and on the inside of the glass in a partially used bottle cannot be
-completely redissolved. Although pigment settling and color float is very minor, it is sometimes manifest
+completely redissolved. Although pigment settling and color float is very minor, it is sometimes manifested
 by a light ring of color at the top of the bottle. This slight degree of separation has no effect on the color
 of the polish. Where heavy special-effects pigments are used, a slight milky color may appear at the top.
 A light shake or two of the bottle after the shaking bead is loose will solve the problem.
