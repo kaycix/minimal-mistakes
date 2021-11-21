@@ -120,18 +120,19 @@ two to the effective durability. And because the polish is odorless and dries qu
 anywhere, anytime.
 </p>
 <p>
-<b>Ease of Removal:</b> The process of forming a harder and harder polish as the hours pass is linked to
-unique chemical reactions which occur deeply within the film to transform the water-loving materials
-inside the bottle into a water-impermeable, water-resistant film on the nails. This process takes time, but
-it also acts to create a film which is increasingly more difficult to remove as time passes, particularly from
-dry, porous nails or toenails. It is very difficult to remove after more than 5 to 6 days of use, even with
-acetone-based removers. Before that point is reached, however, it can be removed quite simply and
-easily with rubbing alcohol (isopropyl alcohol).
+<b>Ease of Removal:</b>
+The process whereby a harder and harder polish is created as the hours pass is
+linked to unique chemical reactions which occur deeply within the film to transform the water-loving
+materials inside the bottle into a water-impermeable, water-resistant film on the nails. This process
+takes time, but it also acts to create a film which is increasingly more difficult to remove as time
+passes, particularly from dry, porous nails or toenails. It is difficult to remove after more than 5 to 6
+days of use, even with acetone-based removers. We have found, however, that the film can be
+softened when exposed for a minute or two to gelled ethanol. The weakened film can then be wiped
+from the nail.
 </p>
 <p>
-While these considerations have made it clear to us that a waterborne polish cannot be used as a mere
-drop-in replacement for traditional solventborne polishes and that consumer education is essential, we
-firmly believe that this waterborne polish can compete effectively in a marketplace where those
-consumers who are already motivated to try a non-toxic, odorless, hypoallergenic polish can be reached
-by a thoughtful, educational marketing approach.
+While these considerations make it clear that a waterborne polish cannot be used as a mere drop-in
+replacement for traditional solventborne polishes, we know that this waterborne polish can compete
+effectively in a marketplace where those consumers who are already motivated to try a non-toxic,
+odorless, hypoallergenic polish can be reached by a thoughtful, educational marketing approach.
 </p>
